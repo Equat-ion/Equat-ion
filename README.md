@@ -1,8 +1,8 @@
 # 💫 About Me:
 
-> Hi i am Areeb
+#### Hi, I am Areeb, a Dev, a Model UN Enthusiast, Motorsport Enjoyer and Student
 
-Building Thinkraft<br>Working on Titles<br><br>
+I am currently Building Thinkraft<br>Working on Titles<br><br>
 
 
 # 💻 Tech Stack:
