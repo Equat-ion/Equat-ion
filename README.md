@@ -1,6 +1,14 @@
-# About Me
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:1e90ff,100:00bfff&text=Hi,%20I'm%20Areeb&fontColor=ffffff&desc=Python%20•%20WebApps%20•%20AI%20•%20AI&descAlign=50&fontAlign=50&fontAlignY=45" width="100%" alt="header"/>
+</p>
 
-### Hi, I am Areeb, a Dev, a Model UN Enthusiast, Motorsport Enjoyer and Student
+<div align="center">
+
+[![GitHub followers](https://img.shields.io/github/followers/equat-ion?style=for-the-badge&color=00bfff&label=Followers)](https://github.com/S4IL21?tab=followers)
+![Profile Views](https://komarev.com/ghpvc/?username=equat-ion&style=for-the-badge&color=00bfff&labelColor=0d1117&label=Profile+Views)
+
+</div>
+---
 
 I am currently Building Thinkraft<br>Working on Titles<br><br>
 
